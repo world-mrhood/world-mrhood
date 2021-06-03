@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @world-mrhood
+- 👋 Hi, I’m mrhood
 - 👀 I'm interested in web development
 - 🌱 I’m currently learning python, javascript
 - 💞️ I’m looking to collaborate on learning programming
